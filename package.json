@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "jsdom": "^19.0.0",
+    "puppeteer": "^13.0.0",
+    "request": "^2.88.2",
+    "test": "^0.6.0"
+  }
+}
